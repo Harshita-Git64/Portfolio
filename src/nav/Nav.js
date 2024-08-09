@@ -49,7 +49,7 @@ const Nav = () => {
             </nav>
 
             <div id="myNav" className="overlay">
-                <a href="javascript:void(0)" class="closebtn" onClick={() => document.getElementById("myNav").style.width = "0%"}>&times;</a>
+                {/* <a href="javascript:void(0)" class="closebtn" onClick={() => document.getElementById("myNav").style.width = "0%"}>&times;</a> */}
                 
                 {/* Button to close the overlay navigation */}
                 {/* Overlay content */}
@@ -60,6 +60,7 @@ const Nav = () => {
                     <a onClick={() => document.getElementById("myNav").style.width = "0%"} href="#contact">Contact</a>
                 </div>
             </div>
+            
 
 
         </div>
