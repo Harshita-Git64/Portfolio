@@ -1,0 +1,38 @@
+.heading {
+    font-style:'Poppins,sans-serif';
+    font-weight: 600;
+    font-size: 48px;
+    scroll-behavior: smooth;
+    color: white;
+}
+.heading span
+{
+    scroll-behavior: smooth;
+    font-size: 72px;
+    background: -webkit-linear-gradient(45deg,#54f5f0, #e4f4f4);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+.introDesc{
+    scroll-behavior: smooth;
+    font-style:'Poppins,sans-serif';
+    font-size: 16px;
+    line-height: 30px;
+    color:white;
+    max-width: 450px;
+}
+.resumeBTN{
+    background: linear-gradient(15deg,#54f5f0, #e4f4f4);
+    border-radius: 5px;
+    border: none;
+    font-style:'Poppins,sans-serif';
+    font-weight: 600 !important;
+    /* font-size: 48px; */
+    color: rgb(0, 0, 0);
+}
+.ProfileImage
+{
+    height: 95%;
+    width: 95%;
+} 

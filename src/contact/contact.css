@@ -1,0 +1,44 @@
+.box {
+    border-radius: 20px;
+}
+
+.contacthead span {
+    background: -webkit-linear-gradient(45deg,#54f5f0, #e4f4f4);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.contacthead {
+    font-size: 36px;
+    font-weight: 600;
+    font-style: 'Poppins,sans-serif';
+    scroll-behavior: smooth;
+    color: white;
+}
+
+.background-radial-gradient {
+    background-color: hsla(0, 1%, 29%, 0.253);
+}
+.contactdetail
+{
+    font-size: 16px;
+    font-style: 'Poppins,sans-serif';
+    scroll-behavior: smooth;
+    color: white;  
+}
+.contactdetail span {
+    font-size: 20px;
+    font-weight: 600;
+    background: -webkit-linear-gradient(45deg,#54f5f0, #e4f4f4);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}   
+
+#radius-shape-2 {
+    border-radius: 148% 17% 101% 94% / 129% 64% 92% 81%;
+    bottom: -76px;
+    right: -60px;
+    width: 200px;
+    height: 180px;
+    background: radial-gradient(#54f5f0d7, #e4f4f4);
+    overflow: hidden;
+}

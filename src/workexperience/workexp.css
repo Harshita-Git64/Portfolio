@@ -1,0 +1,80 @@
+.bar {
+    width: 15%;
+    height: 8px;
+    border-radius: 4px;
+    background-color: aqua;
+}
+
+.workexpthead {
+    font-style: 'Poppins,sans-serif';
+    scroll-behavior: smooth;
+    font-weight: 600 !important;
+    font-size: 36px;
+    scroll-behavior: smooth;
+
+    color: white;
+}
+
+
+
+
+
+.timeline {
+    border-left: 1px solid hsl(0, 0%, 90%);
+    position: relative;
+    list-style: none;
+}
+
+.timeline .timeline-item {
+    position: relative;
+}
+
+.timeline .timeline-item:after {
+    position: absolute;
+    display: block;
+    top: 0;
+}
+
+.timeline .timeline-item:after {
+    background-color: hsl(0, 0%, 90%);
+    left: -38px;
+    border-radius: 50%;
+    height: 11px;
+    width: 11px;
+    content: "";
+}
+
+
+
+
+.expheadings {
+    font-size: 24px;
+    font-weight: 600;
+    font-Style: "Poppins, sans-serif";
+    color: white;
+}
+
+.expDates {
+    font-weight: 600;
+    font-size: 0.75rem;
+    line-height: 1rem;
+    background: -webkit-linear-gradient(45deg, #54f5f0, #e4f4f4);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.expPoints {
+    font-Style: "Poppins, sans-serif";
+    font-size: 14px;
+    color: #ffffffb3;
+    line-height: 30.8px;
+    font-weight: 400;
+    scroll-behavior: smooth;
+}
+
+.expPoints span 
+{
+    color: white;
+    font-weight: 600;
+    scroll-behavior: smooth;
+}

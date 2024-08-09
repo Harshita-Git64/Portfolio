@@ -1,0 +1,73 @@
+.bar {
+    width: 15%;
+    height: 8px;
+    border-radius: 4px;
+    background-color: aqua;
+}
+
+.projecthead {
+    font-style: 'Poppins,sans-serif';
+    scroll-behavior: smooth;
+    font-weight: 600 !important;
+    font-size: 36px;
+    color: white;
+}
+
+.projectdesc {
+    font-style: 'Poppins,sans-serif';
+    line-height: 30px;
+    font-weight: 400;
+    font-size: 16px;
+    scroll-behavior: smooth;
+    color: rgb(171, 168, 168);
+
+}
+
+
+.projectImage {
+    height: 100%;
+    width: 100%;
+}
+
+.heading5 {
+    font-style: 'Poppins,sans-serif';
+    font-weight: 600;
+    font-size: 24px;
+    color: white;
+    scroll-behavior: smooth;
+
+}
+
+.paragraph {
+    font-style: 'Poppins,sans-serif';
+    max-width: 470px;
+    scroll-behavior: smooth;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #ffffffb3;
+    
+}
+
+.techs {
+    font-weight: 600;
+    color: white;
+}
+
+.demoButton img {
+    height: 12px;
+}
+
+.demoButton {
+    font-style: 'Poppins,sans-serif';
+    scroll-behavior: smooth;
+    font-size: 16px;
+    line-height: 30px;
+    background: linear-gradient(15deg, #54f5f0, #e4f4f4);
+    font-weight: 600;
+    border-radius: 0.25rem;
+    display: flex;
+    width: 90px;
+    color: rgb(0, 0, 0) !important;
+    text-decoration: none;
+}

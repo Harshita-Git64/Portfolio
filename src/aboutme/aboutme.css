@@ -1,0 +1,66 @@
+.aboutmehead {
+    background-color: rgba(107, 106, 106, 0.536);
+    border-radius: 40px;
+    font-style: 'Poppins,sans-serif';
+    font-weight: 600 !important;
+    line-height: 40px;
+    padding: 5px 15px;
+    color: rgb(39, 213, 244);
+}
+
+.abouthead {
+    font-style: 'Poppins,sans-serif';
+    font-weight: 600 !important;
+    font-size: 36px;
+    color: white
+}
+
+.aboutdesc {
+    font-style: 'Poppins,sans-serif';
+    font-weight: 400 !important;
+    margin-top: 15px;
+    max-width: 470px;
+    font-size: 14px;
+    line-height: 30px;
+    color: rgb(206, 203, 203)
+}
+
+/* .bracket {
+    height: 10px !important;
+    width: 100px;
+} */
+.bracket img {
+    background: linear-gradient(45deg, #282828, #6a6a6a);
+    height: 60px;
+    width: 60px;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.teckcard:hover {
+    background: linear-gradient(45deg, #7b8cbc91, #aaafafb4);
+    border-radius: 20px;
+}
+
+.texts h2 {
+    font-size: 20px;
+    font-weight: 700;
+    font-style: 'Poppins,sans-serif';
+    scroll-behavior: smooth;
+    color: white;
+}
+
+.texts p {
+    color: rgb(192, 191, 191);
+    font-style: 'Poppins,sans-serif';
+    line-height: 24px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+@media screen and (max-width: 480px) {
+    .bracket img {
+        height: 40px;
+        width: 40px;
+    }
+  }
