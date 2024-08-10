@@ -48,7 +48,7 @@ const Nav = () => {
                 {/* Container wrapper */}
             </nav>
             <div id="myNav" className="overlay">
-                <a href="javascript:void(0)" class="closebtn" onClick={() => document.getElementById("myNav").style.width = "0%"}>&times;</a> 
+                <button class="closebtn" onClick={() => document.getElementById("myNav").style.width = "0%"}>&times;</button> 
                 
                 {/* Button to close the overlay navigation */}
                 {/* Overlay content */}
