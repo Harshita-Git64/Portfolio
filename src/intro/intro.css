@@ -33,6 +33,8 @@
 }
 .ProfileImage
 {
+    margin-top:20px;
     height: 95%;
     width: 95%;
+    border-radius:60px;
 } 

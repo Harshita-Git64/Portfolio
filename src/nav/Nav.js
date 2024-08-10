@@ -15,7 +15,7 @@ const Nav = () => {
                         <img src='/images/menu.svg' alt='' />
                     </button>
                     {/* Collapsible wrapper */}
-                    <div className="collapse navbar-collapse" id="navbarRightAlignExample">
+                    <div className="collapse navbar-collapse my-3" id="navbarRightAlignExample">
                         {/* Left links */}
                         <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
                             <li className="nav-item navText me-4">
@@ -47,22 +47,6 @@ const Nav = () => {
                 </div>
                 {/* Container wrapper */}
             </nav>
-
-            <div id="myNav" className="overlay">
-                {/* <a href="javascript:void(0)" class="closebtn" onClick={() => document.getElementById("myNav").style.width = "0%"}>&times;</a> */}
-                
-                {/* Button to close the overlay navigation */}
-                {/* Overlay content */}
-                <div className="overlay-content">
-                    <a onClick={() => document.getElementById("myNav").style.width = "0%"} href="#about">About</a>
-                    <a onClick={() => document.getElementById("myNav").style.width = "0%"} href="#project">Project</a>
-                    <a onClick={() => document.getElementById("myNav").style.width = "0%"} href="#skills">Skills</a>
-                    <a onClick={() => document.getElementById("myNav").style.width = "0%"} href="#contact">Contact</a>
-                </div>
-            </div>
-            
-
-
         </div>
     )
 }

@@ -29,6 +29,13 @@ const Skills = () => {
 
                                 <div class="col-3 text-danger text-center">
                                     <div class="bg-light images" >
+                                        <img src="/images/tailwind.png" alt="" />
+                                         </div>
+                                    <p className='skillsname'>Tailwind CSS</p>
+                                </div>
+
+                                <div class="col-3 text-danger text-center">
+                                    <div class="bg-light images" >
                                         <img src="/images/JS.png" alt="" />
                                 
                                     </div>
@@ -40,12 +47,6 @@ const Skills = () => {
                                      </div>
                                     <p className='skillsname'>React.js</p>
 
-                                </div>
-                                <div class="col-3 text-danger text-center">
-                                    <div class="bg-light images" >
-                                        <img src="/images/next.png" alt="" />
-                                     </div>
-                                    <p className='skillsname'>Next.js</p>
                                 </div>
                             </div>
                         </div>
@@ -93,6 +94,12 @@ const Skills = () => {
                                         <img src="/images/restapi.png" alt="" />
                                     </div>
                                     <p className='skillsname'>REST API</p>
+                                </div>
+                                <div class="col-3 text-danger text-center">
+                                    <div class="bg-light images" >
+                                        <img src="/images/github.png" alt="" />
+                                    </div>
+                                    <p className='skillsname'>GitHub</p>
                                 </div>
                             </div>
                         </div>

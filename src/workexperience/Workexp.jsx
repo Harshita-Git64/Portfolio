@@ -14,39 +14,28 @@ const Workexp = () => {
                         {/* Section: Timeline */}
                         <section className="pt-5">
                             <ul className="timeline">
+                              
                                 <li className="timeline-item mb-5">
-                                    <h5 className="fw-bold expheadings">Software Developer Intern - </h5>
-                                    <p className="expDates">June 2022 - December 2022</p>
+                                    <h5 className="fw-bold expheadings">Software Developer - Winlancer Technologies</h5>
+                                    <p className="expDates">August 2023 - Febuary 2024</p>
                                     <ul>
-                                        <li className="expPoints">Contributed in development of an <span> banking ATM application </span>with a features to credit ,withdraw, and manage account balance  for a <span> seamless user experience.</span></li>
-                                        <li className="expPoints">Utilized  <span> Java, html,css,and sql</span>  to create a modern and user-friendly interface.</li>
-                                    </ul>
-                                </li>
-                                <li className="timeline-item mb-5">
-                                    <h5 className="fw-bold expheadings">Software Developer Intern - Aurasoft digitech</h5>
-                                    <p className="expDates">feb 2023 - apr 2023</p>
-                                    <ul>
-                                        <li className="expPoints">Leveraged <span> HTML, CSS, JavaScript, and Bootstrap </span>to design and implement the frontend of the website.</li>
-                                        <li className="expPoints">Collaborated with a team of <span> 5 developers </span>to create a  college councelling platform.</li>
-                                        <li className="expPoints">Utilized <span>reactJs, html,css,Redux,and bootstrap</span>  to create a modern and user-friendly interface.</li>
-                                    </ul>
-                                </li>
-                                <li className="timeline-item ">
-                                    <h5 className="fw-bold expheadings">Software Developer trainee - Aurasoft digitech</h5>
-                                    <p className="expDates">may 2023 - oct 2023</p>
-                                    <ul>
-                                        <li className="expPoints">developed a <span>E-commerce web application </span> from scrach.</li>
-                                        <li className="expPoints">Utilized <span> reactJs,NextJs,Redux, html,css,and bootstrap </span> to create a modern and user-friendly interface.</li>
-                                        <li className="expPoints">Utilized <span> NodeJs and Express </span>to build a flexible and easy to understand Backend</li>
-                                        <li className="expPoints">Utilized <span> mongoDB</span> to manage and store data</li>
-                                    </ul>
-                                </li>
+                                        <li className="expPoints">Implemented <span>cross-platform features for Android and iOS </span> mobile applications using <span>Xamarin and C# within .NET framework</span> ,ensuring seamless integration and optimal performance.
+                                        </li>
+                                       
+                                        <li className="expPoints">Designed and developed user interfaces (UI) to deliver a seamless and user-friendly experience.</li>
 
+                                        <li className="expPoints"> Collaborated with teams to enhance <span>project efficiency and achieve project goals.</span></li>
+
+                                        <li className="expPoints">Performed comprehensive debugging to identify and resolve issues in program execution.</li>
+                                          
+                                        <li className="expPoints">Actively participated in <span>code reviews </span>to provide and receive constructive feedback, identifying and implementing improvements. </li>
+
+                                    </ul>
+                                </li>
                             </ul>
                         </section>
                         {/* Section: Timeline */}
                     </>
-
 
                 </div>
             </div>
