@@ -53,7 +53,7 @@ const Projects = () => {
                       React, Node.js, Express.js, MongoDB, WebSocket, Tailwind CSS
                     </span>
                   </p>
-                  <div>
+                  <div style={{marginBottom:"10px"}}>
                     <a
                       href="/"
                       onClick={() => openInNewTab("https://chat-application-7raa.onrender.com/")}
