@@ -7,13 +7,13 @@ const Nav = () => {
                 {/* Container wrapper */}
                 <div className="container-fluid">
                     {/* Toggle button */}
-                    <button
+                    {/* <button
                         className="navbar-toggler ms-auto"
                         type="button"
                         onClick={() => document.getElementById("myNav").style.width = "100%"}
                                        >
                         <img src='/images/menu.svg' alt='' />
-                    </button>
+                    </button> */}
                     {/* Collapsible wrapper */}
                     <div className="collapse navbar-collapse my-3" id="navbarRightAlignExample">
                         {/* Left links */}
