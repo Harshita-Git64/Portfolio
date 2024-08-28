@@ -88,7 +88,7 @@ const Projects = () => {
                   </p>
                   <p className="paragraph">
                     Tech Stack:{" "}
-                    <span className="techs">React, Tailwind CSS, Redux</span>
+                    <span className="techs">React, Tailwind CSS, Node.js, Express.js, MongoDB</span>
                   </p>
                   <div>
                     <a
