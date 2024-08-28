@@ -24,7 +24,7 @@ const Intro = () => {
             role="link"
             onClick={() =>
               openInNewTab(
-                "https://drive.google.com/file/d/1mqUC1Eu65MQcJLAQY-SWfA3mejR6Od67/view?usp=sharing"
+                "https://drive.google.com/file/d/1kUxTBvLA2vK2jVrIX3r-XQLCx3jdJcBW/view?usp=sharing"
               )
             }
           >
